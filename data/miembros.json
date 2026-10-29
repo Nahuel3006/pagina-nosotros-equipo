@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Ana Martinez",
+    "rol": "Desarrolladora Frontend",
+    "descripcion": "Especialista en HTML, CSS y JavaScript con enfoque en interfaces responsivas.",
+    "imagen": "img/ana.jpg"
+  },
+  {
+    "nombre": "Carlos Lopez",
+    "rol": "Desarrollador Backend",
+    "descripcion": "Experto en lógica de servidor y manejo de bases de datos.",
+    "imagen": "img/carlos.jpg"
+  },
+  {
+    "nombre": "Maria Gonzalez",
+    "rol": "Diseñadora UX/UI",
+    "descripcion": "Apasionada por la experiencia de usuario y el diseño visual moderno.",
+    "imagen": "img/maria.jpg"
+  },
+  {
+    "nombre": "Luis Rodriguez",
+    "rol": "Project Manager",
+    "descripcion": "Coordinador del equipo y responsable de la gestión de proyectos.",
+    "imagen": "img/luis.jpg"
+  }
+]

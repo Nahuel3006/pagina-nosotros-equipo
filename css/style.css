@@ -1,0 +1,18 @@
+/* Estilos personalizados para el equipo */
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+#nosotros {
+    min-height: calc(100vh - 200px);
+}
