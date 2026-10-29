@@ -17,11 +17,13 @@ con `fetch` + `await` y se muestran en cards de Bootstrap generadas con JavaScri
 
 ## Estructura
 
+```text
 ├── index.html
 ├── data/miembros.json
 ├── img/
 ├── css/style.css
 └── js/app.js
+```
 
 ## Cómo ejecutarlo
 
