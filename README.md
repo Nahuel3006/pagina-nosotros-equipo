@@ -19,10 +19,13 @@ con `fetch` + `await` y se muestran en cards de Bootstrap generadas con JavaScri
 
 ```text
 ├── index.html
-├── data/miembros.json
+├── data/
+│   └── miembros.json
 ├── img/
-├── css/style.css
-└── js/app.js
+├── css/
+│   └── style.css
+└── js/
+    └── app.js
 ```
 
 ## Cómo ejecutarlo
